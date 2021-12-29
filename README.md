@@ -1,0 +1,1 @@
+Esse projeto tem como foco a análise do funcionamento e aplicações das API's 
